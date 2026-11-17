@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+# data are downloaded by the scripts in data/ and experiments/download_round2.py
+datasets/
+# caches and outputs written when experiments are re-run
+experiments/cache/
+experiments/results/
+experiments/ext/
+paper/output/
+*.h5ad
+*.h5ad.gz
+.DS_Store
