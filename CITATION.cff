@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code or the per-run results, please cite the article below and this software release."
+title: "EvPFC: code, label draws and per-run results for 'Evidential priors for semi-supervised picture fuzzy clustering with noisy partial labels in single-cell multi-omics data'"
+version: 1.0.0
+license: MIT
+type: software
+authors:
+  - family-names: Thong
+    given-names: Pham Huy
+    affiliation: "School of Information and Communication Technology, Hanoi University of Industry, Hanoi, Vietnam"
+    email: thongph@haui.edu.vn
+  - family-names: Huan
+    given-names: Phung The
+    affiliation: "Thai Nguyen University of Information and Communication Technology, Thai Nguyen, Vietnam"
+    email: pthuan@ictu.edu.vn
+repository-code: "https://github.com/pthuan-droid/EvPFC"
+keywords:
+  - single-cell multi-omics
+  - semi-supervised clustering
+  - picture fuzzy sets
+  - belief functions
+  - conformal prediction
+  - label noise
+preferred-citation:
+  type: article
+  title: "Evidential priors for semi-supervised picture fuzzy clustering with noisy partial labels in single-cell multi-omics data"
+  authors:
+    - family-names: Thong
+      given-names: Pham Huy
+    - family-names: Huan
+      given-names: Phung The
+  journal: "Pattern Analysis and Applications"
+  status: submitted
